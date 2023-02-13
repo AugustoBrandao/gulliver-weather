@@ -8,3 +8,10 @@ Link da API: https://openweathermap.org/guide
 - Clique no ícone da lupa 
 - Veja os dados climáticos 
 
+Caso a API não funcione, será necessário gerar uma nova api key no site Open Weather Map:
+- Crie uma conta no site 
+- Entre em My API Keys
+- Adicione uma API Key Name 
+- Clique em Generate
+- Copie a chave gerada
+- Entre no arquivo app.js e adicione a api_key na variável constante da linha 19
